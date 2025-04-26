@@ -33,7 +33,10 @@ X(旧Twitter): @RowsSoft123
 
 ●実行方法●
 
-展開後の AutoRows\AutoRows\bin フォルダにある AutoRows.exe を実行。
+Microsoft Defenderなどでスキャンして安全を確認後、
+ZIPファイル展開後の AutoRows\AutoRows\bin フォルダにある AutoRows.exe を実行。
+デジタル署名を付加していないため、発行元が不明と表示されますが、
+「詳細情報」をクリックして、「実行」を押下することで実行できます。
 
 ## 
 
