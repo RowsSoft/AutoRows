@@ -23,4 +23,18 @@ X(旧Twitter): @RowsSoft123
 
 ## 
 
+●インストール方法●
+
+画面右上の「Code」ボタンより「Download ZIP」を選択。
+ダウンロードしたZIPファイルを展開。
+更に その中にあるZIPファイルを好きなフォルダに展開。
+
+## 
+
+●実行方法●
+
+展開後の AutoRows\AutoRows\bin フォルダにある AutoRows.exe を実行。
+
+## 
+
 以上
